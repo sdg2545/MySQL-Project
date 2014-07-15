@@ -1,0 +1,5 @@
+username |password
+ckim |ngs     
+marc |ngsmarc 
+david|ngsdav  
+jim  |ngsjimmy
